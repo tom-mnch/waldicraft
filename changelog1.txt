@@ -1,0 +1,19 @@
+Warps auf der Karte sichtbar
+Ab sofort sind alle Warps auf der Karte einsehbar unter https://map.tommnch.net/
+
+Startguthaben
+Jeder Spieler erhält ein Startguthaben von 100€
+
+Items verkaufen
+Mit dem Befehl /ah sell <Preis> könnt ihr ein Item, das ihr in der Hand haltet, auf dem Marktplatz zum Verkauf anbieten
+Mit /ah öffnet ihr den Marktplatz, um Angebote einzusehen
+
+Spieler bezahlen
+Mit dem Befehl /pay <Spieler> <Betrag> könnt ihr einen anderen Spieler direkt bezahlen, ohne den Marktplatz zu nutzen
+
+Items an den Server verkaufen
+Mit /sell hand könnt ihr die in der Hand gehaltenen Items direkt an den Server verkaufen
+
+Kisten sichern
+Mit /cprivate könnt ihr Kisten durch einen Linksklick für andere Spieler sperren
+Mit /cremove könnt ihr gesperrte Kisten durch einen Linksklick wieder entsperren
